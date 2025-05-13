@@ -22,7 +22,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="@dimen/margin_top"
                 android:fontFamily="@font/freescript"
-                android:text="@string/introTitle"
+                android:text="Manh Cuong Shop"
                 android:textStyle="bold"
                 android:textSize="@dimen/text_size_large"
                 android:textColor="@color/darkBlue"
@@ -58,17 +58,5 @@
                 android:textAlignment="center"
                 android:textColor="@color/black"
                 android:textSize="@dimen/text_size_small" />
-
-            <TextView
-                android:id="@+id/Copyright"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="@dimen/margin_top"
-                android:text="@string/copyRight"
-                android:textAlignment="center"
-                android:textColor="@color/black"
-                android:textSize="@dimen/text_size_small"
-                android:textStyle="bold" />
-
         </LinearLayout>
 </ScrollView>

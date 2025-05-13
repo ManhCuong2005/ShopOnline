@@ -27,7 +27,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="@dimen/margin_top"
-        android:hint="Tìm kiếm giày..."
+        android:hint="Tìm kiếm sản phẩm..."
         android:padding="8dp"
         android:textSize="@dimen/text_size_small"
         android:background="@drawable/search_bg"
